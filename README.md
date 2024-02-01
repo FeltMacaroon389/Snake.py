@@ -28,3 +28,8 @@ Install the requirements:
 Run the file:
 
 `python3 Snake.py`.
+
+<h2>Compiling into Windows executable (.exe)</h2>
+<h3>(Requires Python3 and Git)</h3>
+
+Download the `Compile.bat` file, and run it.
