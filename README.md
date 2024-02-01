@@ -1,7 +1,25 @@
-Very simple Snake Game written in Python via Pygame.
+<h1>Very simple Snake Game written in Python via Pygame.</h1>
 
+<h3>Automatic installation (Debian)</h3>
 
-Installation:
+Download the "AutoInstall.sh" file.
+
+Run `chmod +x AutoInstall.sh` to give it executable permissions.
+
+Run `./AutoInstall.sh` to run the script.
+
+The game will automatically open when finished.
+
+<h3>Manual installation:</h3>
+<h5>(Requires Python3 and Git)</h5>
+
+Clone the repository:
+
+`git clone https://github.com/FeltMacaroon389/Snake.py`
+
+Change working directory:
+
+`cd Snake.py`
 
 Install the requirements:
 
