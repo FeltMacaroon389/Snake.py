@@ -36,6 +36,8 @@ cd Snake.py || exit
 rm requirements.txt
 rm README.md
 rm LICENSE
+rm Compile.bat
+rm AutoInstall.sh
 
 # Install the requirements
 pip3 install pygame
